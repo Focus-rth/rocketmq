@@ -13,9 +13,10 @@
     <parent>
         <groupId>org.apache.rocketmq</groupId>
         <artifactId>rocketmq-all</artifactId>
-        <version>5.0.0-ALPHA</version>
+        <version>5��.0.0-BETA-SNAPSHOT</version>
     </parent>
     <artifactId>rocketmq-acl</artifactId>
+  <version>5.0.0-BETA-SNAPSHOT</version>
     <name>rocketmq-acl ${project.version}</name>
 
     <dependencies>
